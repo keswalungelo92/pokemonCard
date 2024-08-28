@@ -49,7 +49,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView>
-      <PokeMonCard {...charmanderData} />
+      <PokeMonCard {...charmanderData} /> 
       <PokeMonCard {...bulbasaurData} />
       <PokeMonCard {...squirtleData} />
       <PokeMonCard {...pikachuData} />
